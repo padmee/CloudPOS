@@ -1,0 +1,158 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+	<title>Free JavaScript Calendar</title>
+	<meta name="description" content="Free JavaScript drop-down calendar control" />
+	<meta name="keywords" content="free JavaScript Calendar, javascript, client side, pop, popup, timestamp, date, picker, database, control" />
+	<meta name="robots" content="index,follow" />
+
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="stylesheet" type="text/css" href="/screen.css" media="all" />
+	<link rel="alternate" type="application/atom+xml" title="Get News from Softcomplex" href="/news.xml" />
+	<script language="JavaScript" src="calendar_us.js"></script>
+	<link rel="stylesheet" href="calendar.css">
+
+</head>
+<body>
+
+<!-- header -->
+<img src="/products/tigra_calendar/tc.gif" id="prodLogo" alt="Tigra Calendar" />
+<img src="/img/logo.gif" id="corpLogo" alt="Softcomplex logo" />
+<div id="slogan">affordable web development services</div>
+<div id="topNav">
+	| <a href="/">About Us</a>
+	| <a href="/services.html">Services</a>
+	| <a href="/download.html">Download</a>
+	| <a href="/order.html">Order</a>
+	| <a href="/support.html">Support</a>
+	| <a href="/news.xml"><img src="/img/rss.gif" alt="Subscribe to News Feed" /></a>
+	|
+</div>
+<div class="clearing">&nbsp;</div>
+<!-- /header -->
+<h1>Tigra Calendar</h1>
+<div id="content">
+<div id="leftPane">
+
+<ul id="menu-primary-menu"><li><a href="https://www.softcomplex.com/catalog/client-side-products/">Client Side Products</a>
+<ul>
+	<li><a href="https://www.softcomplex.com/products/tigra_menu/">Tigra Menu</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_menu_pro/">Tigra Menu PRO</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_menu_gold/">Tigra Menu GOLD</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_tree_menu/">Tigra Tree Menu</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_tree_menu_pro/">Tigra Tree Menu PRO</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_tree_menu_ajax/">Tigra Tree Menu AJAX</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_calendar/">Tigra Calendar</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_calendar_pro/">Tigra Calendar PRO</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_scroller/">Tigra Scroller</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_scroller_pro/">Tigra Scroller PRO</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_color_picker/">Tigra Color Picker</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_hints/">Tigra Hints</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_fader/">Tigra Fader</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_tables/">Tigra Tables</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_tables_pro/">Tigra Tables PRO</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_form_validator/">Tigra Form Validator</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_form_validator_pro/">Tigra Form Validator PRO</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_slider_control/">Tigra Slider Control</a></li>
+	<li><a href="https://www.softcomplex.com/products/tigra_slider_control_pro/">Tigra Slider Control PRO</a></li>
+</ul>
+</li>
+<li><a href="https://www.softcomplex.com/catalog/activex-components/">ActiveX Components</a>
+<ul>
+	<li><a href="https://www.softcomplex.com/products/asp_upload_component/">ASP Upload Component</a></li>
+	<li><a href="https://www.softcomplex.com/products/asp_mail_component/">ASP Mail Component</a></li>
+	<li><a href="https://www.softcomplex.com/products/asp_zip_component/">ASP Zip Component</a></li>
+</ul>
+</li>
+<li><a href="https://www.softcomplex.com/catalog/design-services/">Design Services</a>
+<ul>
+	<li><a href="https://www.softcomplex.com/design/">Web Design</a></li>
+	<li><a href="https://www.softcomplex.com/design/logos.php">Logo Design</a></li>
+</ul>
+</li>
+</ul>
+
+</div>
+<div id="rightPane">
+
+<h2 class="first">Description</h2>
+<img src="multiple-calendars.gif" alt="Calendars Preview" class="imgRight" />
+<p>Tigra Calendar is a free cross-browser JavaScript Calendar control, it improves the user experience by enabling a drop-down calendar for date fields in web forms.</p>
+
+<h2>Features</h2>
+
+<link rel="stylesheet" type="text/css" href="tcal.css"> 
+<script language="JavaScript" src="tcal.js"></script> 
+<form style="float:right;clear:right;margin-top:10px;">LIVE SAMPLE: <input type="text" name="sampleField" class="tcal" /></form>
+
+<ul>
+	<li>Easy to use - no programming skills required</li>
+	<li>Small footprint - no need to add large JavaScript framework if all you need is date picker</li>
+	<li>Easy customization and styling via CSS</li>
+	<li>Simple localization</li>
+	<li>Attaches to existing form fields, plays nicely with existing styling</li>
+	<li>Can be attached dynamically - perfect for AJAX applications</li>
+	<li>Supports any date format similar to PHP's date(..) function</li>
+	<li>Efficient, well formatted code full of code snippets to borrow - great learning source</li>
+	<li>Works in all modern browsers including mobile platforms</li>
+	<li>Can be used in any kind of web applications (PHP/ASP/CGI etc.)</li>
+	<li>Public domain software - <span style="color:red">FREE</span> to use any way you want</li>
+</ul>
+
+<h2>Benefits</h2>
+<a href="tigra_calendar.zip"><img src="/img/download_now.gif" alt="Download Now!" class="imgRight"></a>
+<ul>
+	<li>Fast and simple date entry improves user experience</li>
+	<li>Use of the calendar eliminates date formatting errors</li>
+	<li>Invalid dates such as February 30 can not be entered via the calendar</li>
+</ul>
+
+<h2>Setup</h2>
+<ol>
+	<li>Upload calendar files to your website</li>
+	<li>Link calendar resources (JS and CSS) to your pages</li>
+	<li>Add class="tcal" to text input(s)</li>
+</ol>
+
+<h2><a href="/products/tigra_calendar_pro/">Tigra Calendar PRO</a> additionally offers:</h2>
+<ul>
+	<li>Even more appearance configuration options including the layout of the calendar controls</li>
+	<li>Events and API can be used to hook multiple calendars for date range selection and implementing various business logic</li>
+	<li>Date limits (minimum and maximum allowed dates) are supported as either absolute date or relatively in days from today</li>
+	<li>Reset date to today button</li>
+	<li>Forbidden dates list (by date, by day of week etc)</li>
+	<li>List of holidays or other dates requiring special highlighting (for example those not available for booking) supported</li>
+	<li>Allowed dates list (blacks out all the dates except those listed)</li>
+	<li>Configurable behavior on out of range date selection</li>
+	<li>Multiple modes: drop-down, pop-up and in-page calendars</li>
+</ul>
+
+</div>
+<div class="clearing">&nbsp;</div>
+</div>
+
+<!-- footer -->
+<div id="footer">
+	<div id="cpRight">Copyright &copy;2002-2014 SoftComplex Inc. All rights reserved.</div>
+	<div id="botmLinks">
+	| <a href="/">company info</a>
+	| <a href="/site_agreement.html">terms of service</a>
+	| <a href="/privacy_policy.html">privacy policy</a>
+	|
+	</div>
+</div>
+<!-- /footer -->
+<!-- google analytics code -->
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-2103267-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+</script>
+
+
+</body>
+</html>

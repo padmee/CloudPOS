@@ -1,0 +1,51 @@
+/* Local Google Fonts placeholder.
+   To keep the project fully offline, download the WOFF2 files you need and define @font-face rules here.
+   Example (Roboto Regular):
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./roboto-v30-latin-regular.woff2') format('woff2');
+  font-display: swap;
+}
+*/
+
+
+/* Roboto Local Fonts (Offline) */
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./assets/fonts/Roboto-Regular.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./assets/fonts/Roboto-Bold.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 400;
+  src: url('./assets/fonts/Roboto-Italic.woff2') format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Roboto';
+  font-style: italic;
+  font-weight: 700;
+  src: url('./assets/fonts/Roboto-BoldItalic.woff2') format('woff2');
+  font-display: swap;
+}
+
+/* Example usage */
+body {
+  font-family: 'Roboto', sans-serif;
+}
